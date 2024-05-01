@@ -81,6 +81,25 @@
             "jp.lilxyzw.liltoon": ">=1.3.7",
             "jp.koturn.liloptimized": ">=1.1.2"
           }
+        },
+        "1.1.3": {
+          "name": "jp.koturn.lilcrossfade",
+          "version": "1.1.3",
+          "displayName": "LilCrossFade",
+          "description": "koturn's custom shaders of lilToon, LilCrossFade.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.lilcrossfade-1.1.3.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilCrossFade" : "0ce429a6901c0e84285e6eb1d9ddd9d2"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7",
+            "jp.koturn.liloptimized": ">=1.1.3"
+          }
         }
       }
     },
@@ -160,6 +179,25 @@
           "vpmDependencies": {
             "jp.lilxyzw.liltoon": ">=1.3.7",
             "jp.koturn.liloptimized": ">=1.1.2"
+          }
+        },
+        "1.1.3": {
+          "name": "jp.koturn.lilemissionwave",
+          "version": "1.1.3",
+          "displayName": "LilEmissionWave",
+          "description": "koturn's custom shaders of lilToon, LilEmissionWave.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.lilemissionwave-1.1.3.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilEmissionWave" : "eee965a7ab3157c479bb33ea01a05b68"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7",
+            "jp.koturn.liloptimized": ">=1.1.3"
           }
         }
       }
@@ -241,6 +279,25 @@
             "jp.lilxyzw.liltoon": ">=1.3.7",
             "jp.koturn.liloptimized": ">=1.1.2"
           }
+        },
+        "1.1.3": {
+          "name": "jp.koturn.lilhueshift",
+          "version": "1.1.3",
+          "displayName": "LilHueShift",
+          "description": "koturn's custom shaders of lilToon, LilHueShift.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.lilhueshift-1.1.3.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilHueShift" : "4a85cd2586ec46142817d97ea38b8741"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7",
+            "jp.koturn.liloptimized": ">=1.1.3"
+          }
         }
       }
     },
@@ -311,6 +368,24 @@
           "license": "MIT",
           "keywords": ["Toon", "Shader", "lilToon"],
           "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.2/jp.koturn.liloptimized-1.1.2.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilOptimized" : "2fee4b7f267d0af4b8959ebd6c9d30cb"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7"
+          }
+        },
+        "1.1.3": {
+          "name": "jp.koturn.liloptimized",
+          "version": "1.1.3",
+          "displayName": "LilOptimized",
+          "description": "koturn's custom shaders of lilToon, LilOptimized.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.liloptimized-1.1.3.zip",
           "legacyFolders" : {
             "Assets\\koturn\\LilOptimized" : "2fee4b7f267d0af4b8959ebd6c9d30cb"
           },
@@ -397,6 +472,25 @@
             "jp.lilxyzw.liltoon": ">=1.3.7",
             "jp.koturn.liloptimized": ">=1.1.2"
           }
+        },
+        "1.1.3": {
+          "name": "jp.koturn.lilrefprobe",
+          "version": "1.1.3",
+          "displayName": "LilRefProbe",
+          "description": "koturn's custom shaders of lilToon, LilRefProbe.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.lilrefprobe-1.1.3.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilRefProbe" : "3861b55c38445584880e9905ad136ba4"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7",
+            "jp.koturn.liloptimized": ">=1.1.3"
+          }
         }
       }
     },
@@ -477,6 +571,48 @@
             "jp.lilxyzw.liltoon": ">=1.3.7",
             "jp.koturn.liloptimized": ">=1.1.2"
           }
+        },
+        "1.1.3": {
+          "name": "jp.koturn.liltextoverray",
+          "version": "1.1.3",
+          "displayName": "LilTextOverray",
+          "description": "koturn's custom shaders of lilToon, LilTextOverray.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.liltextoverray-1.1.3.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilTextOverray" : "d02fb98160c0b3940a199d14edb68527"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7",
+            "jp.koturn.liloptimized": ">=1.1.3"
+          }
+        }
+      }
+    },
+    "jp.koturn.lilvisibility": {
+      "versions": {
+        "1.1.3": {
+          "name": "jp.koturn.lilvisibility",
+          "version": "1.1.3",
+          "displayName": "LilVisibility",
+          "description": "koturn's custom shaders of lilToon, LilVisibility.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.lilvisibility-1.1.3.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilVisibility" : "89e0d1d26d70bb049a4ea7fc4977df1d"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7",
+            "jp.koturn.liloptimized": ">=1.1.3"
+          }
         }
       }
     },
@@ -556,6 +692,25 @@
           "vpmDependencies": {
             "jp.lilxyzw.liltoon": ">=1.3.7",
             "jp.koturn.liloptimized": ">=1.1.2"
+          }
+        },
+        "1.1.3": {
+          "name": "jp.koturn.lilwireframe",
+          "version": "1.1.3",
+          "displayName": "LilWireframe",
+          "description": "koturn's custom shaders of lilToon, LilWireframe.",
+          "unity": "2018.1",
+          "documentationUrl": "https://github.com/koturn/LilKustomShaders/wiki",
+          "licensesUrl": "https://github.com/koturn/LilKustomShaders/blob/v1.1.3/LICENSE",
+          "license": "MIT",
+          "keywords": ["Toon", "Shader", "lilToon"],
+          "url" : "https://github.com/koturn/LilKustomShaders/releases/download/v1.1.3/jp.koturn.lilwireframe-1.1.3.zip",
+          "legacyFolders" : {
+            "Assets\\koturn\\LilWireframe" : "89e0d1d26d70bb049a4ea7fc4977df1d"
+          },
+          "vpmDependencies": {
+            "jp.lilxyzw.liltoon": ">=1.3.7",
+            "jp.koturn.liloptimized": ">=1.1.3"
           }
         }
       }
